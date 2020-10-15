@@ -1,0 +1,15 @@
+{
+  "name": "discord-databot",
+  "version": "1.0.0",
+  "description": "Discord bot that collects data and send it to a web server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Hasperhoven",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0"
+  }
+}
