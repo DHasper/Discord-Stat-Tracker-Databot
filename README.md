@@ -4,9 +4,9 @@ This is a discord bot for my stat tracking website. As of right now it is still 
 
 ## Check out the other repositories for this project:
 
-The backend for this website: [![Discord-Stat-Tracker-Webserver](https://img.shields.io/static/v1?label=&message=Discord-Stat-Tracker-Webserver&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DHasper/Discord-Stat-Tracker-Webserver)
+The backend for the stat tracker website: [![Discord-Stat-Tracker-Webserver](https://img.shields.io/static/v1?label=&message=Discord-Stat-Tracker-Webserver&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DHasper/Discord-Stat-Tracker-Webserver)
 
-The frontend for this website: [![Discord-Stat-Tracker-Website](https://img.shields.io/static/v1?label=&message=Discord-Stat-Tracker-Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DHasper/Discord-Stat-Tracker-Website)
+The frontend for the stat tracker website: [![Discord-Stat-Tracker-Website](https://img.shields.io/static/v1?label=&message=Discord-Stat-Tracker-Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DHasper/Discord-Stat-Tracker-Website)
 
 ## Stats tracked
 
